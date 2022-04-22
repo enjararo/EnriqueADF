@@ -1,0 +1,9 @@
+{
+	"name": "EnriqueADF",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19abc410-936e-40a5-b0b4-453e27f28234",
+		"tenantId": "7683070f-0c86-4bae-b7c0-6b81fdb8be2a"
+	}
+}
